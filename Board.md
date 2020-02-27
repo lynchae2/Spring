@@ -33,10 +33,18 @@
 
   
 
+
+
+
+
 #### BoardDto.java
 
 - DTO란 Data Transfer Object 이다.
 - 사용자에게 노출시킬 데이터만 처리하기 위한 클래스 
+
+
+
+
 
 
 
@@ -60,6 +68,10 @@ public BoardRestController(BoardRepository boardRepository, ModelMapper modelMap
 ```
 
  
+
+
+
+
 
 #### BoardRestController.java
 
