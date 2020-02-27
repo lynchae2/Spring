@@ -1,4 +1,4 @@
-# spring_study
+# Spring과 RestAPI
 
 #### ApplicationContext = Spring Container의 객체
 
